@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Amir
 
-<!--
-**AmirrWake/AmirrWake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cloud Computing | Cyber Operations | Security Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Master's in Cloud Computing Systems
+- 🔐 Graduate Certificate in Cyber Operations
+- 💼 Background in Business Management
+- ☁️ Focused on Cloud Security, DevSecOps, and SOC Engineering
+- 🧠 Passionate about building secure, scalable cloud systems
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud & Security**
+- AWS (IAM, EC2, S3, CloudWatch)
+- Azure fundamentals
+- Cloud Security Posture Management (CSPM)
+- NIST / CIS Frameworks
+
+**Languages**
+- Python
+- SQL
+- Bash
+
+**Tools**
+- FastAPI
+- Streamlit
+- Git & GitHub
+- Docker (learning/expanding)
+
+---
+
+## 📊 Featured Projects
+
+### 🔐 Cloud Security Posture Platform
+Enterprise-style security tool that scans cloud configurations, detects misconfigurations, calculates risk scores, and generates SOC dashboards and reports.
+
+### 📡 Network & Cloud Analysis Tools
+Python-based tools for analyzing system and network behavior for security insights.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/amirwakefield
+
+---
+
+## ⚡ Fun Fact
+I build cloud security projects that simulate real enterprise SOC tools.
